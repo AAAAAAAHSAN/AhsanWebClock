@@ -1,3 +1,3 @@
 # AhsanWebClock
-This is an small web analog clock
+This is a small web analog clock
 It is made with HTML CSS and JavaScript
